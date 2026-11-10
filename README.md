@@ -1,7 +1,7 @@
-Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
+# Pedagogické-_Portfolium_NMgr
 
-__Zde budou vaše vlastní údaje__
+Pedagogické portfolium <br>
+Navazující magisterské studium <br>
+Bc. Michal Mošať (D26237) <br>
+Katedra technické a informační výchovy <br>
+Pedagogická fakulta, UPOL <br>
