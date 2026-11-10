@@ -1,3 +1,2 @@
-Zde bude přečtená literatura.
+Zde je přečtená literatura.
 
-Vložte soubor v textovém formátu, ideálně .pdf, nebo zkopírujte kompletní seznam do .md souboru.
